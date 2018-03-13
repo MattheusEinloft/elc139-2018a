@@ -14,12 +14,12 @@ Nome: Mattheus Einloft
 | Número total de núcleos de processamento                  |        147,456        |        2        |
 | Fabricante e modelo do(s) processador(es)                 | Intel Xeon E5-2680 8C | Intel Core i5-7200U |
 | Frequência do(s) processador(es)                          |        2.7GHz         |     2.5Ghz      |
-| Memória total                                             |         340TB         |       8GB       |
+| Memória total                                             |           -           |       8GB       |
 | Tipo(s) de interconexão entre os núcleos/processadores    |    Infiniband FDR     | Intel QuickPath Interconnect |
 | Desempenho Linpack                                        |     2,897 TFlop/s     |                 |
 
 ### Referências
 - Top500. SuperMUC. https://www.top500.org/system/177719.
-- Página na Wikipedia sobre SuperMUC. https://en.wikipedia.org/wiki/SuperMUC.
-- Autor (nome de pessoa ou instituição). Título. URL.
-- ...
+- Intel. Intel® Math Kernel Library Benchmarks. https://software.intel.com/en-us/articles/intel-mkl-benchmarks-suite.
+- Leibniz Rechenzentrum. SuperMUC Petascale System. https://www.lrz.de/services/compute/supermuc/systemdescription/
+- Wikipedia. https://en.wikipedia.org/wiki/SuperMUC.
