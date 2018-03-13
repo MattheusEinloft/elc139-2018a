@@ -16,7 +16,7 @@ Nome: Mattheus Einloft
 | Frequência do(s) processador(es)                          |        2.7GHz         |     2.5Ghz      |
 | Memória total                                             |           -           |       8GB       |
 | Tipo(s) de interconexão entre os núcleos/processadores    |    Infiniband FDR     | Intel QuickPath Interconnect |
-| Desempenho Linpack                                        |     2,897 TFlop/s     |                 |
+| Desempenho Linpack                                        |     2,897 TFlop/s     |  35,7205 GFlops |
 
 ### Referências
 - Top500. SuperMUC. https://www.top500.org/system/177719.
