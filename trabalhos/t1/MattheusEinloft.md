@@ -15,11 +15,11 @@ Nome: Mattheus Einloft
 | Fabricante e modelo do(s) processador(es)                 | Intel Xeon E5-2680 8C | Intel Core i5-7200U |
 | Frequência do(s) processador(es)                          |        2.7GHz         |     2.5Ghz      |
 | Memória total                                             |         340TB         |       8GB       |
-| Tipo(s) de interconexão entre os núcleos/processadores    |    Infiniband FDR     |                 |
-| Desempenho Linpack                                        |                       |                 |
+| Tipo(s) de interconexão entre os núcleos/processadores    |    Infiniband FDR     | Intel QuickPath Interconnect |
+| Desempenho Linpack                                        |     2,897 TFlop/s     |                 |
 
 ### Referências
-- Autor (nome de pessoa ou instituição). Título. URL.
-- Autor (nome de pessoa ou instituição). Título. URL.
+- Top500. SuperMUC. https://www.top500.org/system/177719.
+- Página na Wikipedia sobre SuperMUC. https://en.wikipedia.org/wiki/SuperMUC.
 - Autor (nome de pessoa ou instituição). Título. URL.
 - ...
