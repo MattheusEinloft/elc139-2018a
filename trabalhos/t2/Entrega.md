@@ -1,7 +1,7 @@
 # T2: Experiências com Profilers
 
 ELC139 - Programação Paralela
-Mattheus Einloft
+Nome: Mattheus Einloft
 
 # Sumário
 
