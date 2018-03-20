@@ -6,7 +6,7 @@ Mattheus Einloft
 
 # Sumário
 
-1. Parte 1 (#parte-1)
+1. [Parte 1](#parte-1)
 
 # Parte 1
 
