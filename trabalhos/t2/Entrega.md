@@ -7,40 +7,12 @@ Mattheus Einloft
 # Sumário
 
 1. [Parte 1](#parte-1)
+2. [Parte 2](#parte-2)
 
 # Parte 1
 
-  - (a) O perfil é afetado pelas opções de configuração?
+  - **(a) O perfil é afetado pelas opções de configuração?**
   
-  - (b) Pelo perfil de execução, há alguma função que poderia ser candidata a paralelização? Por quê?
+  - **(b) Pelo perfil de execução, há alguma função que poderia ser candidata a paralelização? Por quê?**
   
 # Parte 2
-
-asdsadasc
-
-sasac
-
-dasdasxsa
-
-x
-
-as
-
-xsaxsax
-
-s
-
-x
-
-as
-
-xsa
-
-x
-
-asx
-
-as
-
-xa
-
