@@ -11,7 +11,7 @@ Mattheus Einloft
 
 # Parte 1
 
-  - **(a) O perfil é afetado pelas opções de configuração?**
+  - **(a) O perfil é afetado pelas opções de configuração?**  
           Sim.
   
   - **(b) Pelo perfil de execução, há alguma função que poderia ser candidata a paralelização? Por quê?**
