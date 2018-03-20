@@ -16,16 +16,31 @@ Mattheus Einloft
   
 # Parte 2
 
-asdsadascsasac
+asdsadasc
+
+sasac
+
 dasdasxsa
+
 x
+
 as
+
 xsaxsax
+
 s
+
 x
+
 as
+
 xsa
+
 x
+
 asx
+
 as
+
 xa
+
